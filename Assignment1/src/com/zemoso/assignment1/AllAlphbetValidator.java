@@ -3,6 +3,7 @@ package com.zemoso.assignment1;
 import java.util.Scanner;
 
 public class AllAlphbetValidator {
+
     public static void main(String[] args) {
         System.out.println("Please Enter Text:");
         Scanner sc = new Scanner(System.in);
